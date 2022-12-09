@@ -96,10 +96,10 @@ function takePicture() {
 
 ## Form (in Portuguese) showing error messages (in red) below each input field
 
-![Form showing error messages below each input field](https://user-images.githubusercontent.com/19349339/206759686-7a9361d9-03c5-4ba5-aa58-00578fd18e09.png)
+![Form showing error messages below each input field](https://user-images.githubusercontent.com/19349339/206774399-629ba51a-83e0-4218-b20f-dd5b4fc5e746.png)
 
 ## Taking a picture
-![Gif of me taking a picture using](https://user-images.githubusercontent.com/19349339/206767687-784faa03-8181-4ae8-9faa-bd788f594c3f.gif)
+![Gif of me taking a picture using](https://user-images.githubusercontent.com/19349339/206774741-a5f66fb1-4d95-4bf0-b5a8-e874a10ed3b2.gif)
 
 ## Detalhes do projeto
 
@@ -196,7 +196,7 @@ function takePicture() {
 
 ## Formulário mostrando as mensagens de erro (em vermelho) para cada campo
 
-![formulário mostrando os campos e as mensagens de erro](https://user-images.githubusercontent.com/19349339/206759686-7a9361d9-03c5-4ba5-aa58-00578fd18e09.png)
+![formulário mostrando os campos e as mensagens de erro](https://user-images.githubusercontent.com/19349339/206774399-629ba51a-83e0-4218-b20f-dd5b4fc5e746.png)
 
 ## Tirando uma foto
-![Gif em que eu tiro uma foto](https://user-images.githubusercontent.com/19349339/206767687-784faa03-8181-4ae8-9faa-bd788f594c3f.gif)
+![Gif em que eu tiro uma foto](https://user-images.githubusercontent.com/19349339/206774741-a5f66fb1-4d95-4bf0-b5a8-e874a10ed3b2.gif)
